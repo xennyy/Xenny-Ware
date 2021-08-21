@@ -1,6 +1,5 @@
 getgenv().Color = Color3.fromRGB(96, 86, 185)
 
---// Ugly code warning!!! credits to ui library makers becuz i skidded off code.
 if game:GetService("CoreGui"):FindFirstChild("ScreenGui") then
     game:GetService("CoreGui").ScreenGui:Destroy()
 end
@@ -121,7 +120,7 @@ function Library.new(string)
     ScrollingFrame.BorderSizePixel = 0
     ScrollingFrame.Size = UDim2.new(0, 127, 0, 252)
     ScrollingFrame.CanvasSize = UDim2.new(0, 0, 0, 0)
-    ScrollingFrame.ScrollBarThickness = 0
+    ScrollingFrame.ScrollBarThickness = 2
 
     local UIPadding_9 = Instance.new("UIPadding")
     UIPadding_9.Parent = ScrollingFrame
@@ -153,7 +152,7 @@ function Library.new(string)
         Main.BorderSizePixel = 0
         Main.Position = UDim2.new(0.285714298, 0, 0.0199999996, 0)
         Main.Size = UDim2.new(0, 365, 0, 284)
-        Main.ScrollBarThickness = 0
+        Main.ScrollBarThickness = 3
         Main.Visible = false
         
         local UIListLayout_6 = Instance.new("UIListLayout")
@@ -1489,5 +1488,4 @@ function Library.new(string)
 
     return Tab
 end
-
 return Library
