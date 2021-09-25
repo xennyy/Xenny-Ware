@@ -17,7 +17,7 @@ channel: https://youtube.com/c/xenny
 
 credits:
 
-xenny#8013 - scripting
+xenny#0001 - scripting
 
 Kiriot (https://v3rmillion.net/member.php?action=profile&uid=46812) - esp lib
 
