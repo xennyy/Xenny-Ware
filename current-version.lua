@@ -1,1 +1,1 @@
-return "b.1.04 (Stable)"
+return "b.1.06 (Stable)"
