@@ -8,7 +8,7 @@ Murder Mystery 2 (https://web.roblox.com/games/142823291/Murder-Mystery-2)
 
 Also has Universal features.
 
-discord: https://discord.gg/NE3hNwNNAd
+discord: https://discord.gg/qu89Afrnxt
 
 website: https://xenny.xyz
 
